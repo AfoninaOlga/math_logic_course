@@ -1,2 +1,17 @@
-# Math logic homeworks
-Repo for submitting Math Logic problems
+# Задания по курсу "Дополнительные главы математической логики и теории алгоритмов"
+#### Афонина Ольга, группа 22.М07-мм
+#### Лекция 1
+Problem1_Tasks1-4.v — задачи 1-4, решенные с помощью Coq
+Problems1_Tasks5-10.pdf — задачи 5-10
+#### Лекция 2
+Problems2.pdf — задача 1
+#### Лекция 3
+Problems3.pdf — задачи 1 и 5
+#### Лекции 4-6
+Problems4-6.pdf — задача 1
+#### Лекция 7
+Problems7.pdf — задачи 1, 2 и 5
+#### Лекция 8
+Problems8.pdf — задачи 1, 3 и 6
+#### Лекция 9
+Problems9.pdf — задача 1
